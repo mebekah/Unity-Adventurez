@@ -1,0 +1,39 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'grave00_mesh_0001.obj'
+
+# Vertices (Count = 16)
+v -16 -6 0
+v -18 -6 0
+v -18 -4 0
+v -16 -4 0
+v -4 -8 0
+v -6 -8 0
+v -6 -6 0
+v -4 -6 0
+v -12 -40 0
+v -14 -40 0
+v -14 -38 0
+v -12 -38 0
+v -24 -40 0
+v -26 -40 0
+v -26 -38 0
+v -24 -38 0
+
+# Texture cooridinates (Count = 4)
+vt 0.5 0.3125
+vt 0.53125 0.3125
+vt 0.53125 0.34375
+vt 0.5 0.34375
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g grave00_mesh_0001
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+f 9/1/1 10/2/1 11/3/1 12/4/1
+f 13/1/1 14/2/1 15/3/1 16/4/1
+

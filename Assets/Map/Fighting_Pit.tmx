@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="left-down" width="24" height="24" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="8">
+ <tileset firstgid="1" source="grass_south_new.tsx"/>
+ <tileset firstgid="2" source="grass_south_old - Copy.tsx"/>
+ <tileset firstgid="3" source="grass_west_new - Copy.tsx"/>
+ <tileset firstgid="4" source="grass0-dirt-mix_2 - Copy.tsx"/>
+ <tileset firstgid="5" source="grass0-dirt-mix_3 - Copy.tsx"/>
+ <tileset firstgid="6" source="grass_flowers_yellow_3_new - Copy.tsx"/>
+ <tileset firstgid="7" source="grass_full_old - Copy.tsx"/>
+ <tileset firstgid="8" source="grass_north_old - Copy.tsx"/>
+ <tileset firstgid="9" source="grass_northwest_new - Copy.tsx"/>
+ <tileset firstgid="10" source="grass_northwest_old.tsx"/>
+ <tileset firstgid="11" source="grass_full_old.tsx"/>
+ <tileset firstgid="12" source="grass_southwest_new.tsx"/>
+ <tileset firstgid="13" source="grass_southeast_new.tsx"/>
+ <tileset firstgid="14" source="grass_west_new - Copy.tsx"/>
+ <tileset firstgid="15" source="grass_west_old.tsx"/>
+ <tileset firstgid="16" source="grass_east_old.tsx"/>
+ <tileset firstgid="17" source="grass_northeast_old.tsx"/>
+ <tileset firstgid="18" source="grass_southeast_old.tsx"/>
+ <tileset firstgid="19" source="grass_northeast_new.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="24" height="24">
+  <data encoding="csv">
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,9,8,8,8,8,8,8,8,8,8,8,8,8,19,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,15,7,7,7,7,7,7,7,7,7,7,7,7,16,6,6,6,6,6,
+6,6,6,6,6,12,2,2,2,2,2,2,2,2,2,2,2,2,13,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+</data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="3" x="152" y="94" width="32" height="603"/>
+  <object id="4" x="163" y="79" width="431" height="38"/>
+  <object id="5" x="167" y="649" width="348" height="35"/>
+  <object id="6" x="593" y="85" width="28" height="586"/>
+  <object id="7" x="487" y="653" width="120" height="34"/>
+ </objectgroup>
+</map>
