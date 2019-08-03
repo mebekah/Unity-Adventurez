@@ -5,6 +5,7 @@ using UnityEngine;
 
 
 public class DisplayText : MonoBehaviour {
+    public float partyEnergy;
 
 
     public string textToLoad;
